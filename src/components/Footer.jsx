@@ -1,7 +1,3 @@
-// export default function Footer() {
-//   return <p>© 2026 My E-commerce</p>;
-// }
-
 
 
 export default function Footer() {
