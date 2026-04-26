@@ -1,0 +1,13 @@
+// export default function Footer() {
+//   return <p>© 2026 My E-commerce</p>;
+// }
+
+
+
+export default function Footer() {
+  return (
+    <footer className="bg-black text-white text-center py-4 mt-10">
+      © 2026 My E-commerce
+    </footer>
+  );
+}
