@@ -103,7 +103,7 @@ export default function Navbar() {
           animate={{ opacity: 1, y: 0 }}
           className="absolute top-16 left-0 w-full bg-white shadow-md md:hidden"
         >
-          <ul className="flex flex-col gap-4 py-6 text-gray-700 font-medium">
+          <ul className="flex flex-col mr-auto gap-4 py-6 text-gray-700 font-medium">
             <li>
               <Link href="/" onClick={() => setOpen(false)}>
                 Home
