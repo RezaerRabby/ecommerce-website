@@ -32,7 +32,7 @@ export default function CartPage() {
         className="bg-white shadow-lg rounded-2xl p-10 text-center"
       >
         <h2 className="text-xl font-semibold mb-4">
-          Your cart is empty 😢
+          Your cart is empty 
         </h2>
 
         <p className="text-gray-600 mb-6">
